@@ -4,4 +4,4 @@ Smart Closet
 
 20180392 이창한
 ----------------
-![Alt text](/path/to/캡처.PNG)
+<img src="/path/to/캡처.PNG">
