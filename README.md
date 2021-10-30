@@ -6,8 +6,8 @@ Smart Closet
 ----------------
 
 ###List         
-Smart clozet
-
+Smart closet
+<hr/>
 
 It is """무신사 홈페이지"""          
 <https://www.musinsa.com/>
